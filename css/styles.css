@@ -735,6 +735,7 @@ background-color: transparent;
 .modal-close:focus {
     background-color: #404BBF ;
     fill: #ffffff;
+    border: none;
 }
 
 .modal-title {
@@ -903,7 +904,6 @@ background-color: transparent;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  border: none;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
